@@ -6,11 +6,9 @@ A real-time ocean simulation using **procedural wave synthesis**, **domain warpi
 
 ## Preview
 
-- [Ocean Simulation Clip 1](preview/preview1.mp4)  
-<video src="preview/preview1.mp4" controls width="600"></video>
+- [Ocean Simulation Clip 1](preview/preview1.gif)  
 
-- [Ocean Simulation Clip 2](preview/preview2.mp4)
-<video src="preview/preview2.mp4" controls width="600"></video>
+- [Ocean Simulation Clip 2](preview/preview2.gif)
 
 ---
 
@@ -25,7 +23,7 @@ A real-time ocean simulation using **procedural wave synthesis**, **domain warpi
 
 ---
 
-## 🧠 Core Idea
+## Core Idea
 
 The ocean surface is modeled as a **dynamic height field**:
 
@@ -195,3 +193,10 @@ cd build
 cmake ..
 make -j4
 ./build/bin/graphics
+
+```
+---
+## Inspiration
+yt/Acerola
+- [How Games Fake Waves](https://www.youtube.com/watch?v=PH9q0HNBjT4&t=40s)  
+- [Effective Water Simulation](https://developer.nvidia.com/gpugems/gpugems/part-i-natural-effects/chapter-1-effective-water-simulation-physical-models)  
