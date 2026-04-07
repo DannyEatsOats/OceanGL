@@ -6,9 +6,9 @@ A real-time ocean simulation using **procedural wave synthesis**, **domain warpi
 
 ## Preview
 
-- [Ocean Simulation Clip 1](preview/preview1.gif)  
+- [ Procedural Ocean Shader 1 ](https://youtu.be/sVoqfzlgAqU)  
 
-- [Ocean Simulation Clip 2](preview/preview2.gif)
+- [ Procedural Ocean Shader 2 ](https://youtu.be/FYMXdizP9WQ)
 
 ---
 
